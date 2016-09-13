@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/finciero-logger.png)](https://nodei.co/npm/finciero-logger/)
 
+[![npm version](https://badge.fury.io/js/finciero-logger.svg)](https://badge.fury.io/js/finciero-logger)
+
 [Winston](https://github.com/winstonjs/winston) wrapper that speaks GCE.
 
 ## Install
