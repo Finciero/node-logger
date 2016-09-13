@@ -1,0 +1,22 @@
+{
+  "name": "finciero-logger",
+  "version": "1.0.0",
+  "description": "Structured Logging Library",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finciero/node-logger.git"
+  },
+  "bugs": {
+    "url": "http://github.com/finciero/node-logger/issues"
+  },
+  "keywords": [],
+  "author": "Sebastian Vera <sv@finciero.com>",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^2.2.0"
+  }
+}
