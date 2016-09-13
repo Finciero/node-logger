@@ -1,6 +1,12 @@
 # Structured Logging
 
+[![NPM](https://nodei.co/npm/finciero-logger.png)](https://nodei.co/npm/finciero-logger/)
+
 [Winston](https://github.com/winstonjs/winston) wrapper that speaks GCE.
+
+## Install
+
+`npm i --save finciero-logger`
 
 ## Usage
 
